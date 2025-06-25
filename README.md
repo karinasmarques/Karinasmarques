@@ -2,7 +2,7 @@
 
 # 👩‍💻 Karina de Sousa Marques
 
-🎓 Formada em **Pedagogia** | E Estudante de **Análise e Desenvolvimento de Sistemas**  
+🎓 Formada em **Pedagogia** |  Estudante de **Análise e Desenvolvimento de Sistemas**  
 📍 Santa Luzia - MG  
 💼 Em busca da primeira oportunidade na área de TI  
 🌱 Apaixonada por educação, tecnologia e transformação digital
