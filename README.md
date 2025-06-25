@@ -1,20 +1,22 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4A90E2&height=200&section=header&text=Karina%20de%20Sousa%20Marques&fontSize=30&fontColor=ffffff" alt="banner"/>
 
 # 👩‍💻 Karina de Sousa Marques
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-📍 Santa Luzia - MG | 💼 Em busca de oportunidade na área de TI  
-💡 Apaixonada por tecnologia, aprendizado constante e soluções criativas
+🎓 Formada em **Pedagogia** | Estudante de **Análise e Desenvolvimento de Sistemas**  
+📍 Santa Luzia - MG  
+💼 Em busca da primeira oportunidade na área de TI  
+🌱 Apaixonada por educação, tecnologia e transformação digital
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou estudante de ADS com foco em desenvolvimento web, lógica de programação e GitHub. Estou me especializando em tecnologias como HTML, CSS e Python.  
-Busco minha primeira oportunidade para crescer na área de TI com responsabilidade, dedicação e criatividade.
+Sou formada em Pedagogia e atualmente estudante de TI, com foco em desenvolvimento web, lógica de programação e tecnologias educacionais.  
+Gosto de unir empatia, criatividade e tecnologia para transformar ideias em soluções acessíveis e funcionais.
 
 ---
 
-## 🛠️ Tecnologias que estou aprendendo:
+## 💡 Tecnologias que estou aprendendo:
 
 - HTML e CSS
 - Lógica de Programação
@@ -24,21 +26,22 @@ Busco minha primeira oportunidade para crescer na área de TI com responsabilida
 
 ---
 
-## 📚 Projetos em andamento:
+## 📁 Projetos em andamento
 
 | Projeto | Descrição |
-|---------|-----------|
-| `curriculo.html` | Meu currículo feito em HTML |
-| `logica-python` | Exercícios básicos de lógica de programação |
+|--------|-----------|
+| `curriculo.html` | Currículo feito com HTML |
+| `logica-python` | Exercícios de lógica de programação |
 | `site-simples` | Página inicial responsiva com HTML e CSS |
 
 ---
 
-## 📫 Contato
+## 📫 Como falar comigo
 
-- 📧 **karina@email.com**  
-- 💼 [LinkedIn](https://linkedin.com/in/karina)  
-- 🖥️ [GitHub](https://github.com/karina)
+- 📧 karinamarques185@gmail.com 
+- 💼 [LinkedIn](https://www.linkedin.com/in/karina-marques-6a21b8185)  
+- 💻 [GitHub](https://github.com/karinasmarques)
 
 ---
 
+> 💬 “Cada linha de código é um passo rumo à minha liberdade e autonomia profissional.”
