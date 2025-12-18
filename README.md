@@ -3,9 +3,10 @@
 # 👩‍💻 Karina de Sousa Marques
 
 🎓 Formação em **Pedagogia**, atualmente em **transição para TI**  
-💻 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
-🎓 Estudante de **Ciências da Computação** pela faculdade Úniunica  
-📍 Santa Luzia - MG  
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e 
+ **Ciências da Computação** 
+💻 ilustradora visual. 
+📍 Belo Horizonte - MG  
 💼 Em busca de oportunidades na área de TI  
 
 ---
