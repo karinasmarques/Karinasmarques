@@ -39,6 +39,20 @@ Atualmente estudo no **Dev Club** e sou **ex-aluna da Alura**, explorando novas 
 
 ---
 
+## 🔮 Projetos Futuros / Em Planejamento
+
+| Projeto | Tipo | Descrição |
+|--------|------|-----------|
+| Previsão do Tempo | Full Stack | Projeto para consultar e mostrar previsões meteorológicas |
+| Apple | Full Stack | Clonando funcionalidades do site da Apple |
+| Netflix | Front-end | Clonando interface e funcionalidades do Netflix |
+| Starbucks | Front-end | Clonando interface do site Starbucks |
+| Instagram | Front-end | Clonando interface e feed do Instagram |
+| Mario | Full Stack | Projeto interativo inspirado no jogo Mario |
+| Nike Air | Full Stack | Clonando funcionalidades do site da Nike Air |
+
+---
+
 ## 🎓 Educação e cursos
 
 - **Dev Club** – estudando desenvolvimento web e lógica de programação  
