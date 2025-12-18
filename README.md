@@ -2,11 +2,12 @@
 
 # 👩‍💻 Karina de Sousa Marques
 
+
 🎓 Formação em **Pedagogia**, atualmente em **transição para TI**  
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**
-🎓Estudante de **Ciências da Computação** 
-💻 **Designer de Ilustração e Conteúdo Visual** 
-📍 Belo Horizonte - MG  
+💻 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
+🎓 Estudante de **Ciências da Computação**  
+🎨 **Designer de Ilustração e Conteúdo Visual**  
+📍 Belo Horizonte - MG
 
 ---
 
