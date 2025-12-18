@@ -19,7 +19,7 @@ Atualmente estudo no **Dev Club** e sou **ex-aluna da Alura**, explorando novas 
 
 ---
 
-## 💡 Tecnologias que estou aprendendo agora:
+## 💡 Tecnologias que estou aprendendo agora
 
 - **Front-end:** HTML, CSS, JavaScript, React, Next.js  
 - **Back-end:** Node.js, banco de dados SQL  
@@ -50,6 +50,73 @@ Atualmente estudo no **Dev Club** e sou **ex-aluna da Alura**, explorando novas 
 | Instagram | Front-end | Clonando interface e feed do Instagram |
 | Mario | Full Stack | Projeto interativo inspirado no jogo Mario |
 | Nike Air | Full Stack | Clonando funcionalidades do site da Nike Air |
+
+---
+
+## 🎨 Ilustrador(a) Visual
+
+**Ferramentas que estou aprendendo e praticando:**  
+- 🖌️ **Adobe Illustrator** – criação vetorial de logos, ícones e infográficos  
+- 🖼️ **Adobe Photoshop** – tratamento de imagens e composição visual  
+- 📐 **Figma** – design de layouts e interface  
+- 💻 **Microsoft 365** (Word, PowerPoint, Excel, Teams) – materiais educacionais e apresentações  
+- 🌐 **Formatos digitais** – PNG, SVG, PDF, WebP  
+- ♿ **Noções de UI e acessibilidade visual** em conteúdos educacionais digitais  
+
+**Competências que estou desenvolvendo:**  
+- 📊 Criação de infográficos, fluxogramas, ícones e diagramas técnicos  
+- 📝 Diagramação de materiais digitais e educativos  
+- 🎨 Aplicação de identidade visual consistente  
+- 🤖 Uso de Inteligência Artificial em geração de imagens (Midjourney, Firefly)  
+- 💡 Criatividade, atenção aos detalhes e colaboração com equipes multidisciplinares  
+
+**Objetivo:**  
+Preparar-me para atuar como **Ilustrador(a) Visual**, contribuindo com design visual para conteúdos educacionais digitais e fortalecendo a identidade visual de projetos.
+
+---
+
+## 🏗️ Projetos que estou desenvolvendo / Planejando
+
+### **1️⃣ Logos**
+- 🎨 Logo de startup fictícia de educação: **EduTech Academy**  
+- 🎨 Logo de biblioteca digital: **Livro Digital**  
+- 🎨 Redesign de logos famosas: **Nike Kids**, **Starbucks Education**  
+
+**Ferramentas:** Adobe Illustrator, PNG/SVG  
+
+---
+
+### **2️⃣ Infográficos**
+- 📊 Ciclo da água – educativo e visualmente interessante  
+- 📊 Etapas de um projeto web – planejamento, desenvolvimento e deploy  
+- 📊 Como organizar estudos – planejamento semanal com ícones  
+
+**Ferramentas:** Illustrator, Photoshop, Canva, Figma  
+
+---
+
+### **3️⃣ Ícones e Ilustrações**
+- 🖌️ Ícones educativos: livro, lápis, computador, gráfico  
+- 🖌️ Ícones de tecnologia: servidor, nuvem, código, inteligência artificial  
+- 🖌️ Pequenas ilustrações para infográficos  
+
+**Ferramentas:** Illustrator (SVG)  
+
+---
+
+### **4️⃣ Projetos Full Stack / Front-End (opcional)**
+- 💻 Mini site de portfólio – mostrando logos, infográficos e ícones  
+- 💻 Página de apresentação educativa – com imagens, textos e ícones vetoriais  
+- 💻 Landing page fictícia de marca educacional  
+
+**Ferramentas:** HTML, CSS, JavaScript, React (opcional)  
+
+---
+
+### **5️⃣ Projetos de Portfólio**
+- 📁 Criar PDF ou mini site com todos os logos, infográficos e ícones  
+- 📁 Cada peça com breve descrição: objetivo, ferramentas e conceitos usados  
+- 📁 Salvar imagens em SVG e PNG para demonstrar versatilidade  
 
 ---
 
