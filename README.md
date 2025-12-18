@@ -3,11 +3,10 @@
 # 👩‍💻 Karina de Sousa Marques
 
 🎓 Formação em **Pedagogia**, atualmente em **transição para TI**  
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e 
- **Ciências da Computação** 
-💻 ilustradora visual. 
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**
+🎓Estudante de **Ciências da Computação** 
+💻 **Designer de Ilustração e Conteúdo Visual** 
 📍 Belo Horizonte - MG  
-💼 Em busca de oportunidades na área de TI  
 
 ---
 
