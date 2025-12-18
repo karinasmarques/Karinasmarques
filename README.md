@@ -16,6 +16,7 @@ Sou formada em Pedagogia e atualmente estudante de TI, com foco em desenvolvimen
 Gosto de unir empatia, criatividade e tecnologia para transformar ideias em soluções acessíveis e funcionais.  
 
 Atualmente estudo no **Dev Club** e sou **ex-aluna da Alura**, explorando novas tecnologias e boas práticas de desenvolvimento.  
+Além disso, venho me preparando como **Ilustrador(a) Visual**, desenvolvendo habilidades em criação de logos, ícones, infográficos e materiais visuais educativos.
 
 ---
 
