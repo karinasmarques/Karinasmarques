@@ -2,27 +2,30 @@
 
 # 👩‍💻 Karina de Sousa Marques
 
-🎓 🎓 🎓 Formação em **Pedagogia**, atualmente cursando **Análise e Desenvolvimento de Sistemas**
+🎓 Formação em **Pedagogia**, atualmente em **transição para TI**  
+💻 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
+🎓 Estudante de **Ciências da Computação** pela faculdade Úniunica  
 📍 Santa Luzia - MG  
-💼 Em busca da primeira oportunidade na área de TI  
-🌱 Apaixonada por educação, tecnologia e transformação digital
+💼 Em busca de oportunidades na área de TI  
 
 ---
 
 ## 🚀 Sobre mim
 
 Sou formada em Pedagogia e atualmente estudante de TI, com foco em desenvolvimento web, lógica de programação e tecnologias educacionais.  
-Gosto de unir empatia, criatividade e tecnologia para transformar ideias em soluções acessíveis e funcionais.
+Gosto de unir empatia, criatividade e tecnologia para transformar ideias em soluções acessíveis e funcionais.  
+
+Atualmente estudo no **Dev Club** e sou **ex-aluna da Alura**, explorando novas tecnologias e boas práticas de desenvolvimento.  
 
 ---
 
-## 💡 Tecnologias que estou aprendendo:
+## 💡 Tecnologias que estou aprendendo agora:
 
-- HTML e CSS
-- Lógica de Programação
-- Git e GitHub
-- Python (básico)
-- Banco de Dados (SQL)
+- **Front-end:** HTML, CSS, JavaScript, React, Next.js  
+- **Back-end:** Node.js, banco de dados SQL  
+- **Programação e lógica:** Python, lógica de programação, TypeScript  
+- **Ferramentas e práticas:** Git, GitHub, Vite  
+- **Futuro / estudos planejados:** Power BI, Inteligência Artificial, outras tecnologias emergentes  
 
 ---
 
@@ -36,11 +39,20 @@ Gosto de unir empatia, criatividade e tecnologia para transformar ideias em solu
 
 ---
 
-## 📫 Como falar comigo
+## 🎓 Educação e cursos
 
-- 📧 karinamarques185@gmail.com 
+- **Dev Club** – estudando desenvolvimento web e lógica de programação  
+- **Alura** – cursos em Front-end, Python, banco de dados e projetos práticos  
+- **Formação em ADS** – projetos e fundamentos de desenvolvimento de software  
+- **Ciências da Computação (Úniunica)** – aprofundamento em algoritmos, estruturas de dados e lógica computacional  
+
+---
+
+## 📫 Contato
+
+- 📧 karina.devjourney@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/karina-marques-6a21b8185)  
-- 💻 [GitHub](https://github.com/karinasmarques)
+- 💻 [GitHub](https://github.com/karinasmarques)  
 
 ---
 
