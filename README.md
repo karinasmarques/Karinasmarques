@@ -40,3 +40,45 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas**, com foco em **Front
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 ![UX%2FUI](https://img.shields.io/badge/UX%2FUI-FF69B4?style=for-the-badge)
 
+### • Ferramentas & Versionamento
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+### • Metodologias
+![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge)
+
+---
+## 📫 Vamos Conversar?
+Estou aberta a conexões, aprendizado e oportunidades na área de Front-end e UX/UI.
+
+
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/karina-s-marques" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/karinasmarques" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:karina.devjourney@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/karinas.marques.tech/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <!-- Portfólio -->
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+---
+✨ ***Obrigada por visitar***
+
