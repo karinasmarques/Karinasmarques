@@ -19,6 +19,7 @@
    ## Sobre Mim 
 Sou uma desenvolvedora em transição de carreira que conecta **design, usabilidade e código** para criar interfaces modernas e funcionais.
 Atualmente curso **Análise e Desenvolvimento de Sistemas**, com foco em **Front-end e UX/UI Design**, buscando sempre a melhor experiência para o usuário.
+
 🎨 **UX/UI:** Criação de interfaces intuitivas e centradas no usuário (Figma).  
 ⚛️ **Front-end:** Desenvolvimento de interfaces responsivas com HTML, CSS e JavaScript.  
 🧠 **Experiência do Usuário:** Organização visual, acessibilidade e usabilidade.  
