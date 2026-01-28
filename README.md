@@ -94,5 +94,3 @@ Estou aberta a conexões, aprendizado e oportunidades na área de Front-end e UX
 
 ---
 ✨ ***Obrigada por visitar***
-
-![Banner](banner.jpeg)
