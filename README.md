@@ -48,6 +48,18 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas**, com foco em **Front
 ### • Metodologias
 ![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge)
 
+## 📌 Projetos & Processo de Aprendizado
+
+Este GitHub documenta minha jornada de transição para a área de tecnologia, unindo **Front-end**, **UX/UI Design**, **Branding** e **Motion Design**.
+
+Na aba **Projects**, organizo meus estudos e projetos práticos por etapas, mostrando:
+- O que estou estudando no momento  
+- Projetos em desenvolvimento  
+- Experimentos práticos com design, código e motion  
+- Evolução contínua dos meus conhecimentos  
+
+🔍 Acompanhe meu processo completo na aba **Projects** do GitHub.
+
 ---
 ## 📫 Vamos Conversar?
 Estou aberta a conexões, aprendizado e oportunidades na área de Front-end e UX/UI.
