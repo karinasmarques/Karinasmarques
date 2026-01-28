@@ -52,13 +52,13 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas**, com foco em **Front
 
 Este GitHub documenta minha jornada de transição para a área de tecnologia, unindo **Front-end**, **UX/UI Design**, **Branding** e **Motion Design**.
 
-Na aba **Projects**, organizo meus estudos e projetos práticos por etapas, mostrando:
+Na aba **Projetos**, organizo meus estudos e projetos práticos por etapas, mostrando:
 - O que estou estudando no momento  
 - Projetos em desenvolvimento  
 - Experimentos práticos com design, código e motion  
 - Evolução contínua dos meus conhecimentos  
 
-🔍 Acompanhe meu processo completo na aba **Projects** do GitHub.
+🔍 Acompanhe meu processo completo na aba **Projetos** do GitHub.
 
 ---
 ## 📫 Vamos Conversar?
