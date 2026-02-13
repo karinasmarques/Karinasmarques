@@ -17,14 +17,9 @@
 
 
    ## Sobre Mim 
-Sou uma desenvolvedora em transição de carreira que conecta **design, usabilidade e código** para criar interfaces modernas e funcionais.
-Atualmente curso **Análise e Desenvolvimento de Sistemas**, com foco em **Front-end e UX/UI Design**, buscando sempre a melhor experiência para o usuário.
-
-🎨 **UX/UI:** Criação de interfaces intuitivas e centradas no usuário (Figma).  
-⚛️ **Front-end:** Desenvolvimento de interfaces responsivas com HTML, CSS e JavaScript.  
-🧠 **Experiência do Usuário:** Organização visual, acessibilidade e usabilidade.  
-🔧 **Ferramentas:** Git, GitHub, VS Code e Figma.  
-🌐 **Portfólio:** em desenvolvimento. 
+Sou desenvolvedora Front-end em transição de carreira, unindo design, usabilidade e código para criar interfaces modernas, acessíveis e responsivas.
+Atualmente curso Análise e Desenvolvimento de Sistemas, com foco em HTML, CSS, JavaScript e UX/UI Design, aplicando na prática conceitos de responsividade, organização visual e experiência do usuário.
+Tenho interesse especial em construir interfaces intuitivas, bem estruturadas e com atenção à acessibilidade
 
 ## 🛠️ Tecnologias
 
@@ -49,16 +44,12 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas**, com foco em **Front
 ![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge)
 
 ## 📌 Projetos & Processo de Aprendizado
-
-Este GitHub documenta minha jornada de transição para a área de tecnologia, unindo **Front-end**, **UX/UI Design**, **Branding** e **Motion Design**.
-
-Na aba **Projetos**, organizo meus estudos e projetos práticos por etapas, mostrando:
-- O que estou estudando no momento  
-- Projetos em desenvolvimento  
-- Experimentos práticos com design, código e motion  
-- Evolução contínua dos meus conhecimentos  
-
-🔍 Acompanhe meu processo completo na aba **Projetos** do GitHub.
+Este GitHub reúne projetos práticos desenvolvidos com foco em Front-end e UX/UI, aplicando conceitos de responsividade, organização visual e experiência do usuário.
+Aqui você encontrará:
+Interfaces responsivas desenvolvidas com HTML, CSS e JavaScript
+Aplicações dos meus estudos em projetos reais
+Evolução técnica documentada ao longo do tempo
+🔍 Explore os repositórios para acompanhar meus projetos e minha evolução profissional.
 
 ---
 ## 📫 Vamos Conversar?
