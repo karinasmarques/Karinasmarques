@@ -17,9 +17,17 @@
 
 
    ## Sobre Mim 
-Sou desenvolvedora Front-end em transição de carreira, unindo design, usabilidade e código para criar interfaces modernas, acessíveis e responsivas.
-Atualmente curso Análise e Desenvolvimento de Sistemas, com foco em HTML, CSS, JavaScript e UX/UI Design, aplicando na prática conceitos de responsividade, organização visual e experiência do usuário.
-Tenho interesse especial em construir interfaces intuitivas, bem estruturadas e com atenção à acessibilidade
+<h2 align="center">✨ Sobre Mim</h2>
+
+<p align="center">
+Sou <strong>Desenvolvedora Front-end</strong> em transição de carreira, unindo 
+<strong>design</strong> e <strong>código</strong> para criar interfaces 
+<strong>modernas</strong>, <strong>acessíveis</strong> e <strong>responsivas</strong>.<br><br>
+
+Atualmente curso <strong>Análise e Desenvolvimento de Sistemas</strong>, aplicando na prática 
+conceitos de <strong>usabilidade</strong>, <strong>organização visual</strong> e 
+<strong>experiência do usuário</strong>.
+</p>
 
 ## 🛠️ Tecnologias
 
@@ -44,12 +52,26 @@ Tenho interesse especial em construir interfaces intuitivas, bem estruturadas e 
 ![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge)
 
 ## 📌 Projetos & Processo de Aprendizado
-Este GitHub reúne projetos práticos desenvolvidos com foco em Front-end e UX/UI, aplicando conceitos de responsividade, organização visual e experiência do usuário.
-Aqui você encontrará:
-Interfaces responsivas desenvolvidas com HTML, CSS e JavaScript
-Aplicações dos meus estudos em projetos reais
-Evolução técnica documentada ao longo do tempo
-🔍 Explore os repositórios para acompanhar meus projetos e minha evolução profissional.
+<h2 align="center">📌 Projetos</h2>
+
+<p align="center">
+Este GitHub reúne <strong>projetos práticos</strong> desenvolvidos com foco em 
+<strong>Front-end</strong> e <strong>UX/UI</strong>, aplicando conceitos de 
+<strong>responsividade</strong>, <strong>organização visual</strong> e 
+<strong>experiência do usuário</strong>.
+</p>
+
+<p align="center"><strong>Aqui você encontrará:</strong></p>
+
+<p align="center">
+• Interfaces responsivas desenvolvidas com <strong>HTML</strong>, <strong>CSS</strong> e <strong>JavaScript</strong><br>
+• Aplicações práticas dos meus estudos<br>
+• Evolução técnica documentada ao longo do tempo
+</p>
+
+<p align="center">
+🔍 <strong>Explore os repositórios</strong> para acompanhar meus projetos e minha evolução profissional.
+</p>
 
 ---
 ## 📫 Vamos Conversar?
