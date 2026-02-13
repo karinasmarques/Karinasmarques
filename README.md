@@ -17,17 +17,8 @@
 
 
    ## Sobre Mim 
-<h2 align="center">✨ Sobre Mim</h2>
-
-<p align="center">
-Sou <strong>Desenvolvedora Front-end</strong> em transição de carreira, unindo 
-<strong>design</strong> e <strong>código</strong> para criar interfaces 
-<strong>modernas</strong>, <strong>acessíveis</strong> e <strong>responsivas</strong>.<br><br>
-
-Atualmente curso <strong>Análise e Desenvolvimento de Sistemas</strong>, aplicando na prática 
-conceitos de <strong>usabilidade</strong>, <strong>organização visual</strong> e 
-<strong>experiência do usuário</strong>.
-</p>
+Sou **Desenvolvedora Front-end** em transição de carreira, unindo **design** e **código** para criar interfaces **modernas**, **acessíveis** e **responsivas**.
+Atualmente curso **Análise e Desenvolvimento de Sistemas**, aplicando na prática conceitos de **usabilidade**, **organização visual** e **experiência do usuário**.
 
 ## 🛠️ Tecnologias
 
@@ -52,9 +43,6 @@ conceitos de <strong>usabilidade</strong>, <strong>organização visual</strong>
 ![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge)
 
 ## 📌 Projetos & Processo de Aprendizado
-<h2 align="center">📌 Projetos</h2>
-
-<p align="center">
 Este GitHub reúne <strong>projetos práticos</strong> desenvolvidos com foco em 
 <strong>Front-end</strong> e <strong>UX/UI</strong>, aplicando conceitos de 
 <strong>responsividade</strong>, <strong>organização visual</strong> e 
