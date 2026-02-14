@@ -48,25 +48,17 @@ Meu objetivo é criar interfaces modernas, intuitivas e centradas no usuário.
 ![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge)
 
 ## 📌 Projetos & Processo de Aprendizado
-Este GitHub reúne <strong>projetos práticos</strong> desenvolvidos com foco em 
-<strong>Front-end</strong> e <strong>UX/UI</strong>, aplicando conceitos de 
-<strong>responsividade</strong>, <strong>organização visual</strong> e 
-<strong>experiência do usuário</strong>.
-</p>
+Este GitHub reúne projetos práticos desenvolvidos com foco em Front-end e UX/UI, aplicando conceitos de responsividade, organização visual e experiência do usuário.
 
-<p align="center"><strong>Aqui você encontrará:</strong></p>
+Aqui você encontrará:
 
-<p align="center">
-• Interfaces responsivas desenvolvidas com <strong>HTML</strong>, <strong>CSS</strong> e <strong>JavaScript</strong><br>
-• Aplicações práticas dos meus estudos<br>
+• Interfaces responsivas desenvolvidas com HTML, CSS e JavaScript
+• Aplicações práticas dos meus estudos
 • Evolução técnica documentada ao longo do tempo
-</p>
 
-<p align="center">
-🔍 <strong>Explore os repositórios</strong> para acompanhar meus projetos e minha evolução profissional.
-</p>
-
+🔍 Explore os repositórios para acompanhar meus projetos e minha evolução profissional.
 ---
+
 ## 📫 Vamos Conversar?
 Estou aberta a conexões, aprendizado e oportunidades na área de Front-end e UX/UI.
 
