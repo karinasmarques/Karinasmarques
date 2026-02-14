@@ -47,6 +47,7 @@ Busco evoluir tecnicamente e contribuir com soluções que unam funcionalidade e
 ## 📌 Projetos & Processo de Aprendizado
 Este repositório reúne projetos práticos desenvolvidos durante minha jornada de aprendizado.
 Cada projeto representa um avanço técnico, explorando estruturação com HTML, estilização com CSS e interatividade com JavaScript.
+
 🔹 Aplicação de responsividade
 🔹 Organização de código
 🔹 Componentização
