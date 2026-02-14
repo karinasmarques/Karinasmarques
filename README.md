@@ -56,8 +56,7 @@ Aqui você encontrará:
 • Aplicações práticas dos meus estudos
 • Evolução técnica documentada ao longo do tempo
 
-🔍 Explore os repositórios para acompanhar meus projetos e minha evolução profissional.
----
+--
 
 ## 📫 Vamos Conversar?
 Estou aberta a conexões, aprendizado e oportunidades na área de Front-end e UX/UI.
