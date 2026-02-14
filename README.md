@@ -16,14 +16,11 @@
 <hr style="width: 60%; margin: auto;" />
 
 
-   ## Sobre Mim 
-## 👩🏻‍💻 Sobre mim
+   ## Sobre Mim  
 
-Sou **Desenvolvedora Front-end**, com foco em **UX/UI Design**, experiência do usuário e acessibilidade.
-
-Atualmente curso **Análise e Desenvolvimento de Sistemas**, aplicando na prática conceitos de responsividade, organização visual e boas práticas de desenvolvimento.
-
-Meu objetivo é criar interfaces modernas, intuitivas e centradas no usuário.
+Sou desenvolvedora Front-end com foco em criar experiências digitais intuitivas e acessíveis.
+Atualmente curso Análise e Desenvolvimento de Sistemas, aplicando na prática conceitos de desenvolvimento web e boas práticas de código.
+Busco evoluir tecnicamente e contribuir com soluções que unam funcionalidade e clareza visual.
 
 ## 🛠️ Tecnologias
 
@@ -48,13 +45,12 @@ Meu objetivo é criar interfaces modernas, intuitivas e centradas no usuário.
 ![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge)
 
 ## 📌 Projetos & Processo de Aprendizado
-Este GitHub reúne projetos práticos desenvolvidos com foco em Front-end e UX/UI, aplicando conceitos de responsividade, organização visual e experiência do usuário.
-
-Aqui você encontrará:
-
-• Interfaces responsivas desenvolvidas com HTML, CSS e JavaScript
-• Aplicações práticas dos meus estudos
-• Evolução técnica documentada ao longo do tempo
+Este repositório reúne projetos práticos desenvolvidos durante minha jornada de aprendizado.
+Cada projeto representa um avanço técnico, explorando estruturação com HTML, estilização com CSS e interatividade com JavaScript.
+🔹 Aplicação de responsividade
+🔹 Organização de código
+🔹 Componentização
+🔹 Evolução documentada ao longo do tempo
 
 
 ## 📫 Vamos Conversar?
