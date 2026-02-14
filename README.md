@@ -45,14 +45,15 @@ Busco evoluir tecnicamente e contribuir com soluções que unam funcionalidade e
 ![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge)
 
 ## 📌 Projetos & Processo de Aprendizado
-Este repositório reúne projetos práticos desenvolvidos durante minha jornada de aprendizado.
-Cada projeto representa um avanço técnico, explorando estruturação com HTML, estilização com CSS e interatividade com JavaScript.
 
-🔹 Aplicação de responsividade
-🔹 Organização de código
-🔹 Componentização
-🔹 Evolução documentada ao longo do tempo
+Este repositório reúne projetos práticos desenvolvidos durante minha jornada de aprendizado. Cada projeto representa um avanço técnico, explorando estruturação com HTML, estilização com CSS e interatividade com JavaScript.
 
+## ✨ Destaques
+
+- Aplicação de responsividade  
+- Organização de código  
+- Componentização  
+- Evolução documentada ao longo do tempo
 
 ## 📫 Vamos Conversar?
 Estou aberta a conexões, aprendizado e oportunidades na área de Front-end e UX/UI.
