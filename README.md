@@ -17,8 +17,13 @@
 
 
    ## Sobre Mim 
-Sou **Desenvolvedora Front-end** em transição de carreira, unindo **design** e **código** para criar interfaces **modernas**, **acessíveis** e **responsivas**.
-Atualmente curso **Análise e Desenvolvimento de Sistemas**, aplicando na prática conceitos de **usabilidade**, **organização visual** e **experiência do usuário**.
+## 👩🏻‍💻 Sobre mim
+
+Sou **Desenvolvedora Front-end**, com foco em **UX/UI Design**, experiência do usuário e acessibilidade.
+
+Atualmente curso **Análise e Desenvolvimento de Sistemas**, aplicando na prática conceitos de responsividade, organização visual e boas práticas de desenvolvimento.
+
+Meu objetivo é criar interfaces modernas, intuitivas e centradas no usuário.
 
 ## 🛠️ Tecnologias
 
