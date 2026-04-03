@@ -40,12 +40,12 @@ Gosto de criar experiências digitais que unem funcionalidade, estética e prop�
 
 <hr>
 
-## 🎯 Foco de Estudos
-**📚 Estudos de interesse Atuais**  
-Front-end | UX/UI Design | Web Design | Desenvolvimento Web | Design Responsivo | Interfaces Digitais | Criação de Produtos Digitais
-> 
-**🚀 Estudos de interesses Futuros**  
-Design Systems | Animações para Web | Acessibilidade | Performance Web | Interfaces Interativas | Product Design | IA Aplicada | Automação
+## 🎯 Tech Stack
+📚 **Estudos de interesse Atuais**  
+UX/UI Design | Interfaces Digitais | Front-end | Desenvolvimento Web | Full Stack (em formação) | Criação de Produtos Digitais
+
+🚀 **Estudos de interesses Futuros**  
+Design Systems | Acessibilidade | Performance Web | Interfaces Interativas | Product Design | IA Aplicada | Automação
 
 <hr>
 
