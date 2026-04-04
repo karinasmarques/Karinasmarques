@@ -28,10 +28,10 @@
 ---
 ## 👩‍💻 Sobre mim
 
-Sou desenvolvedora web e designer UI/UX, com interesse em tornar a tecnologia mais humana, acessível e significativa.  
-Busco criar experiências digitais que unem funcionalidade, estética e propósito.
+Sou desenvolvedora web e designer UI/UX, com interesse em criar soluções digitais mais acessíveis e significativas.  
+Busco desenvolver experiências que unem funcionalidade, estética e propósito.
 
-> Acredito que a tecnologia deve conectar pessoas — não apenas sistemas.
+> Acredito que a tecnologia deve conectar pessoas e não sistemas.
 
 - 🔭 Desenvolvendo projetos pessoais e freelancers com foco em desenvolvimento web e design  
 - 🌱 Aprimorando conhecimentos em **UI/UX, desenvolvimento frontend e novas tecnologias**  
