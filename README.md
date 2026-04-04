@@ -42,7 +42,7 @@ Busco criar experiências digitais que unem funcionalidade, estética e propósi
 <hr>
 
 
-## 🎯 Tech Stack
+## 🎯 Estudos 
 
 📚 **Interesses atuais**  
 UX/UI Design • Interfaces Digitais • Front-end • Desenvolvimento Web • Criação de Produtos Digitais
@@ -52,7 +52,7 @@ Design Systems • Acessibilidade • Performance Web • Interfaces Interativas
 
 <hr>
 
-## 🛠 Tech Stack
+## 🛠 Tecnologias
 
 <details open>
 <summary><b>💻 Linguagens de Programação</b></summary>
@@ -98,7 +98,7 @@ Design Systems • Acessibilidade • Performance Web • Interfaces Interativas
 
 <hr>
 
-## 📫 Contact
+## 📫 Contato 
 
 - LinkedIn: https://www.linkedin.com/in/karina-s-marques
 - Email: karina.devjourney@gmail.com
