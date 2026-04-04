@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=DAA520&center=true&vCenter=true&width=600&lines=Bem-vindos+ao+meu+perfil!+%F0%9F%91%8B;Desenvolvedora+Web;Front-end+%7C+UI%2FUX+Design;Criando+experi%C3%AAncias+digitais+intuitivas;Sempre+aprendendo+e+evoluindo!+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=DAA520&center=true&vCenter=true&width=600&lines=Bem-vindo(a)+ao+meu+perfil!+%F0%9F%91%8B;Tecnologia+com+olhar+humano;Desenvolvimento+Web+%7C+UI%2FUX;Criando+experi%C3%AAncias+digitais+intuitivas;Sempre+evoluindo+e+aprendendo+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -21,31 +21,34 @@
 </p>
 
 <p align="center">
-  <img src="banner_20260402_204348_0000.png" alt="Banner Karina Marques" width="800px" />
+  <img src="banner_20260404_104046_0000.png" alt="Banner Karina Marques" width="800px" />
 </p>
 
 
 ---
-## 💡 About Me
-Sou desenvolvedora web e designer UI/UX apaixonada por tornar a tecnologia mais humana, acessível e significativa.  
-Gosto de criar experiências digitais que unem funcionalidade, estética e propósito.
+## 👩‍💻 Sobre mim
+
+Sou desenvolvedora web e designer UI/UX, com interesse em tornar a tecnologia mais humana, acessível e significativa.  
+Busco criar experiências digitais que unem funcionalidade, estética e propósito.
 
 > Acredito que a tecnologia deve conectar pessoas — não apenas sistemas.
 
-- 🔭 Atualmente estou trabalhando em projetos pessoais e freelancers focados em desenvolvimento web e design  
-- 🌱 Atualmente estou aprendendo **UI/UX avançado, desenvolvimento frontend e novas tecnologias**  
-- 🤝 Estou aberta a colaborar em projetos criativos e de impacto  
-- 💬 Pergunte-me sobre **UI/UX, desenvolvimento web, design e experiência do usuário**  
-- 📫 Como me encontrar: **karina.devjourney@gmail.com**  
+- 🔭 Desenvolvendo projetos pessoais e freelancers com foco em desenvolvimento web e design  
+- 🌱 Aprimorando conhecimentos em **UI/UX, desenvolvimento frontend e novas tecnologias**  
+- 🤝 Aberta a colaborar em projetos criativos e de impacto  
+- 💬 Interesses: **UI/UX, desenvolvimento web, design e experiência do usuário**  
+- 📫 Contato: **karina.devjourney@gmail.com**
 
 <hr>
 
-## 🎯 Tech Stack
-📚 **Estudos de interesse Atuais**  
-UX/UI Design | Interfaces Digitais | Front-end | Desenvolvimento Web | Full Stack (em formação) | Criação de Produtos Digitais
 
-🚀 **Estudos de interesses Futuros**  
-Design Systems | Acessibilidade | Performance Web | Interfaces Interativas | Product Design | IA Aplicada | Automação
+## 🎯 Tech Stack
+
+📚 **Interesses atuais**  
+UX/UI Design • Interfaces Digitais • Front-end • Desenvolvimento Web • Criação de Produtos Digitais
+
+🚀 **Interesses futuros**  
+Design Systems • Acessibilidade • Performance Web • Interfaces Interativas • Product Design • IA Aplicada • Automação
 
 <hr>
 
