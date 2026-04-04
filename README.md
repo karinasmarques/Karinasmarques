@@ -45,10 +45,10 @@ Busco criar experiências digitais que unem funcionalidade, estética e propósi
 ## 🎯 Estudos 
 
 📚 **Interesses atuais**  
-UX/UI Design • Interfaces Digitais • Front-end • Desenvolvimento Web • Criação de Produtos Digitais
+Desenvolvimento Front-end • UX/UI Design • Front-end • Desenvolvimento Web • Criação de Produtos Digitais
 
 🚀 **Interesses futuros**  
-Design Systems • Acessibilidade • Performance Web • Interfaces Interativas • Product Design • IA Aplicada • Automação
+Desenvolvimento Full Stack • Design Systems • Acessibilidade • Performance Web • Interfaces Interativas • Product Design • IA Aplicada • Automação
 
 <hr>
 
