@@ -30,6 +30,7 @@
 
 Sou desenvolvedora web e designer UI/UX, com interesse em criar soluções digitais mais acessíveis e significativas.  
 Busco desenvolver experiências que unem funcionalidade, estética e propósito.
+Com experiência anterior em áreas como saúde e educação, trago comigo um olhar mais humano, empático e focado nas necessidades das pessoas para criar soluções digitais
 
 > Acredito que a tecnologia deve conectar pessoas e não sistemas.
 
@@ -61,6 +62,7 @@ Desenvolvimento Full Stack • Design Systems • Acessibilidade • Performance
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </details>
 
