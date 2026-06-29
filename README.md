@@ -1,33 +1,4 @@
-```markdown
-<h3 align="center">👩‍💻 OLÁ, EU SOU KARINA 👋</h3>
 
-<hr>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=DAA520&center=true&vCenter=true&width=650&lines=Bem-vindo(a)+ao+meu+perfil!+%F0%9F%91%8B;Desenvolvedora+Full+Stack+em+forma%C3%A7%C3%A3o;Cloud+Computing+%E2%80%A2+UX+aplicada;Tecnologia+com+olhar+humano;Sempre+evoluindo+e+aprendendo+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-</div>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/karina-s-marques">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-
-  <a href="mailto:karina.devjourney@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-
-  <a href="https://github.com/karinasmarques">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="banner_20260404_104046_0000.png" width="900"/>
-</p>
-
----
 
 # 👩‍💻 Sobre mim
 
