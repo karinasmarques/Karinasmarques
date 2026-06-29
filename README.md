@@ -28,39 +28,45 @@
 ---
 ## 👩‍💻 Sobre mim
 
-Sou desenvolvedora Full Stack em formação, com experiência em desenvolvimento Front-End e interesse em Back-End, Cloud Computing e UX aplicada. Busco criar soluções digitais funcionais, acessíveis e centradas no usuário.
+# 👋 Olá, eu sou a Karina!
 
-> Acredito que a tecnologia deve conectar pessoas e não sistemas.
+Sou **Desenvolvedora Full Stack em formação**, com experiência em desenvolvimento **Front-End** e foco em **Back-End, Cloud Computing e UX aplicada**. Busco criar soluções digitais funcionais, acessíveis e centradas no usuário.
 
-- 🔭 Desenvolvendo projetos pessoais e freelancers com foco em desenvolvimento web e design  
-- 🌱 Aprimorando conhecimentos em **UI/UX, desenvolvimento frontend e novas tecnologias**  
-- 🤝 Aberta a colaborar em projetos criativos e de impacto  
-- 💬 Interesses: **UI/UX, desenvolvimento web, design e experiência do usuário**  
+> 💡 Acredito que a tecnologia deve conectar pessoas, e não apenas sistemas.
+
+## 🚀 Atualmente
+
+- 🔭 Desenvolvendo projetos pessoais e freelancers com foco em desenvolvimento web.
+- 🌱 Aprimorando conhecimentos em Front-End, Back-End, Cloud Computing e UX aplicada.
+- 🤝 Aberta a colaborar em projetos de desenvolvimento e inovação.
+- 💬 Interesses: Desenvolvimento Web, Cloud Computing, UX aplicada e Arquitetura de Software.
 - 📫 Contato: **karina.devjourney@gmail.com**
 
-<hr>
+## 📚 Tecnologias
 
+### 💻 Atualmente
 
-## 🎯 Estudos 
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Node.js
+- MySQL
+- Git
+- GitHub
 
-📚 **Interesses atuais**  
-HTML
-CSS
-JavaScript
-React
-Node.js
-MySQL
+### 🎯 Estudando
 
-🚀 **Interesses futuros**  
-Cloud Computing
-APIs REST
-Arquitetura de Software
-Full Stack
-IA aplicada
-DevOps
+- Back-End
+- Cloud Computing
+- APIs REST
+- Arquitetura de Software
 
-<hr>
+### 🚀 Próximos passos
 
+- IA aplicada
+- DevOps
+  
 ## 🛠 Tecnologias
 
 <details open>
