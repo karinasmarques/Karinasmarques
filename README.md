@@ -20,32 +20,13 @@ Busco criar soluções digitais funcionais, acessíveis e centradas no usuário,
 
 ---
 
-# 📚 Tecnologias
-
-## 💻 Atualmente
-
-- HTML5
-- CSS3
-- JavaScript
-- React
-- Node.js
-- MySQL
-- Git
-- GitHub
-- VS Code
-
 ## 🎯 Estudando
 
-- Back-End
-- Cloud Computing
-- APIs REST
-- Arquitetura de Software
+- Back-End - Cloud Computing - APIs REST - Arquitetura de Software
 
 ## 🚀 Próximos passos
 
-- Python
-- IA aplicada
-- DevOps
+- Python - IA aplicada - DevOps
 
 ---
 
@@ -139,8 +120,6 @@ Busco criar soluções digitais funcionais, acessíveis e centradas no usuário,
 <div align="center">
 
 ## ✨ Obrigada pela visita!
-
-**Tecnologia com propósito, inovação com impacto e soluções centradas nas pessoas.**
 
 </div>
 ```
