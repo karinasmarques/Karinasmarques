@@ -9,32 +9,50 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=DAA520&center=true&vCenter=true&width=650&lines=Bem-vindo(a)+ao+meu+perfil!+%F0%9F%91%8B;Desenvolvedora+Full+Stack;Cloud+Computing+%E2%80%A2+UX+aplicada;Tecnologia+com+olhar+humano;Sempre+evoluindo+e+aprendendo+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
+<div align="center">
+<h2>Conecte se comigo!</h2>
 
-# 👩‍💻 Sobre mim
+<p align="center">
+
+<a href="https://www.linkedin.com/in/karina-s-marques">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:karina.devjourney@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+  
+<h2>👩‍💻 Sobre mim</h2>
 
 Sou **Desenvolvedora Full Stack em formação**, com experiência em desenvolvimento **Front-End** e foco em **Back-End, Cloud Computing e UX aplicada**.
 
 Busco criar soluções digitais funcionais, acessíveis e centradas no usuário, unindo tecnologia, usabilidade e impacto positivo.
 
-> 💡 **Acredito que a tecnologia deve conectar pessoas, e não apenas sistemas.**
+💡 **Acredito que a tecnologia deve conectar pessoas, e não apenas sistemas.**
 
-- 🔭 Desenvolvendo projetos pessoais e freelancers com foco em desenvolvimento web.
-- 🌱 Aprimorando conhecimentos em Desenvolvimento Full Stack, Cloud Computing e UX aplicada.
-- 🤝 Aberta a colaborar em projetos de desenvolvimento e inovação.
-- 💬 Interesses: Desenvolvimento Full Stack, Cloud Computing, Arquitetura de Software e UX aplicada.
-- 📫 Contato: **karina.devjourney@gmail.com**
+🔭 Desenvolvendo projetos pessoais e freelancers com foco em desenvolvimento web.
+🌱 Aprimorando conhecimentos em Desenvolvimento Full Stack, Cloud Computing e UX aplicada.
+🤝 Aberta a colaborar em projetos de desenvolvimento e inovação.
+💬 Interesses: Desenvolvimento Full Stack, Cloud Computing, Arquitetura de Software e UX aplicada.
+📫 Contato: **karina.devjourney@gmail.com**
   
-## 🎯 Estudando
+ <h3>🎯 Estudando </h3>
 
-- Back-End - Cloud Computing - APIs REST - Arquitetura de Software
+Back-End - Cloud Computing - APIs REST - Arquitetura de Software
 
-## 🚀 Próximos passos
+<h3>🚀 Próximos passos</h3>
 
-- Python - IA aplicada - DevOps
+Python - IA aplicada - DevOps
 
 ---
 
-# 🛠️ Stack Tecnológica
+<h2>🛠️ Stack Tecnológica</h2>
 
 <details open>
 
@@ -86,7 +104,7 @@ Busco criar soluções digitais funcionais, acessíveis e centradas no usuário,
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-> Em processo de aprendizagem.
+Em processo de aprendizagem.
 
 </details>
 
@@ -103,27 +121,8 @@ Busco criar soluções digitais funcionais, acessíveis e centradas no usuário,
 
 </details>
 
----
 
-# 📫 Vamos nos conectar?
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/karina-s-marques">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:karina.devjourney@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
 
 ## ✨ Obrigada pela visita!
 
-</div>
-```
+
