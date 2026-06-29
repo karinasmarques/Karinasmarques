@@ -28,9 +28,7 @@
 ---
 ## 👩‍💻 Sobre mim
 
-Sou desenvolvedora web e designer UI/UX, com interesse em criar soluções digitais mais acessíveis e significativas.  
-Busco desenvolver experiências que unem funcionalidade, estética e propósito.
-Com experiência anterior em áreas como saúde e educação, trago comigo um olhar mais humano, empático e focado nas necessidades das pessoas para criar soluções digitais
+Sou desenvolvedora Full Stack em formação, com experiência em desenvolvimento Front-End e interesse em Back-End, Cloud Computing e UX aplicada. Busco criar soluções digitais funcionais, acessíveis e centradas no usuário.
 
 > Acredito que a tecnologia deve conectar pessoas e não sistemas.
 
@@ -46,10 +44,20 @@ Com experiência anterior em áreas como saúde e educação, trago comigo um ol
 ## 🎯 Estudos 
 
 📚 **Interesses atuais**  
-Desenvolvimento Front-end • UX/UI Design • Front-end • Desenvolvimento Web • Criação de Produtos Digitais
+HTML
+CSS
+JavaScript
+React
+Node.js
+MySQL
 
 🚀 **Interesses futuros**  
-Desenvolvimento Full Stack • Design Systems • Acessibilidade • Performance Web • Interfaces Interativas • Product Design • IA Aplicada • Automação
+Cloud Computing
+APIs REST
+Arquitetura de Software
+Full Stack
+IA aplicada
+DevOps
 
 <hr>
 
