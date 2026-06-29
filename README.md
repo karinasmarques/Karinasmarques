@@ -6,14 +6,11 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=DAA520&center=true&vCenter=true&width=650&lines=Bem-vindo(a)+ao+meu+perfil!+%F0%9F%91%8B;Desenvolvedora+Full+Stack;Cloud+Computing+%E2%80%A2+UX+aplicada;Tecnologia+com+olhar+humano;Sempre+evoluindo+e+aprendendo+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=DAA520&center=true&vCenter=true&width=550&lines=Bem-vindo(a)+ao+meu+perfil!+%F0%9F%91%8B;Desenvolvedora+Full+Stack;Cloud+Computing+%E2%80%A2+UX+aplicada;Tecnologia+com+olhar+humano;Sempre+evoluindo+e+aprendendo+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
+
 <div align="center">
-<h2>Conecte se comigo!</h2>
-
-<p align="center">
-
 <a href="https://www.linkedin.com/in/karina-s-marques">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -25,9 +22,7 @@
 </p>
 
 ---
-
-<div align="center">
-  
+</div>
 <h2>👩‍💻 Sobre mim</h2>
 
 Sou **Desenvolvedora Full Stack em formação**, com experiência em desenvolvimento **Front-End** e foco em **Back-End, Cloud Computing e UX aplicada**.
@@ -46,7 +41,7 @@ Busco criar soluções digitais funcionais, acessíveis e centradas no usuário,
 
 Back-End - Cloud Computing - APIs REST - Arquitetura de Software
 
-<h3>🚀 Próximos passos</h3>
+<h3>🚀 Próximos Passos </h3>
 
 Python - IA aplicada - DevOps
 
@@ -58,7 +53,6 @@ Python - IA aplicada - DevOps
 
 <summary><b>💻 Linguagens</b></summary>
 
-<br>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -104,8 +98,6 @@ Python - IA aplicada - DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-Em processo de aprendizagem.
-
 </details>
 
 <details open>
@@ -122,7 +114,10 @@ Em processo de aprendizagem.
 </details>
 
 
+---
 
-## ✨ Obrigada pela visita!
+<div align="center"> 
+  
+  ## ✨ Obrigada pela visita! 👋
 
 
