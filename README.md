@@ -1,4 +1,14 @@
+<p align="center">
+  <img src="banner_20260629_131745_0000.png" width="100%" />
+</p>
 
+<h3 align="center">👩‍💻 OLÁ, EU SOU KARINA 👋</h3>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=DAA520&center=true&vCenter=true&width=650&lines=Bem-vindo(a)+ao+meu+perfil!+%F0%9F%91%8B;Desenvolvedora+Full+Stack+em+forma%C3%A7%C3%A3o;Cloud+Computing+%E2%80%A2+UX+aplicada;Tecnologia+com+olhar+humano;Sempre+evoluindo+e+aprendendo+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+</div>
 
 # 👩‍💻 Sobre mim
 
