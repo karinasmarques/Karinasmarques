@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=DAA520&center=true&vCenter=true&width=650&lines=Bem-vindo(a)+ao+meu+perfil!+%F0%9F%91%8B;Desenvolvedora+Full+Stack+em+forma%C3%A7%C3%A3o;Cloud+Computing+%E2%80%A2+UX+aplicada;Tecnologia+com+olhar+humano;Sempre+evoluindo+e+aprendendo+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=DAA520&center=true&vCenter=true&width=650&lines=Bem-vindo(a)+ao+meu+perfil!+%F0%9F%91%8B;Desenvolvedora+Full+Stack;Cloud+Computing+%E2%80%A2+UX+aplicada;Tecnologia+com+olhar+humano;Sempre+evoluindo+e+aprendendo+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,18 +18,12 @@ Busco criar soluções digitais funcionais, acessíveis e centradas no usuário,
 
 > 💡 **Acredito que a tecnologia deve conectar pessoas, e não apenas sistemas.**
 
----
-
-# 🚀 Atualmente
-
 - 🔭 Desenvolvendo projetos pessoais e freelancers com foco em desenvolvimento web.
 - 🌱 Aprimorando conhecimentos em Desenvolvimento Full Stack, Cloud Computing e UX aplicada.
 - 🤝 Aberta a colaborar em projetos de desenvolvimento e inovação.
 - 💬 Interesses: Desenvolvimento Full Stack, Cloud Computing, Arquitetura de Software e UX aplicada.
 - 📫 Contato: **karina.devjourney@gmail.com**
-
----
-
+  
 ## 🎯 Estudando
 
 - Back-End - Cloud Computing - APIs REST - Arquitetura de Software
