@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Karina Marques_20260809_052315_0000.png" width="70%" />
+  <img src="Karina Marques_20260809_052315_0000.png" width="100%" />
 </p>
 
 <h3 align="center">👩‍💻 OLÁ, EU SOU KARINA 👋</h3>
