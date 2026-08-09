@@ -28,9 +28,7 @@
 
 Olá! Sou pedagoga, formada em Análise e Desenvolvimento de Sistemas (ADS) e estudante de Ciência da Computação 🎓
  
-Minha trajetória passou pela educação e saúde, experiências que me ensinaram a valorizar pessoas: comunicação, empatia, escuta e resolução de problemas fazem parte de quem sou.
- 
-Hoje levo todo esse olhar para a tecnologia: crio soluções digitais que funcionam, são acessíveis e pensadas de verdade para quem vai usar.
+Minha trajetória passou pela educação e saúde, experiências que me ensinaram a valorizar pessoas: comunicação, empatia, escuta e resolução de problemas fazem parte de quem sou. Hoje levo todo esse olhar para a tecnologia
  
 💡 Acredito que tecnologia não é só código: ela existe para resolver desafios reais e melhorar a vida das pessoas.
  
@@ -96,12 +94,6 @@ Git | GitHub | VS Code
 
 <h2>🚀 Projetos</h2>
 
-São criações pessoais feitas com carinho: foco em soluções que funcionem de verdade, sejam acessíveis e pensadas sempre nas pessoas que vão usar.
- 
-Aqui, eu misturo tecnologia, praticidade e cuidado para resolver desafios reais, do jeito mais útil e agradável possível.
- 
+São criações pessoais feitas com carinho.Aqui, eu misturo tecnologia, praticidade e cuidado para resolver desafios reais, do jeito mais útil e agradável possível. Meu objetivo é unir conhecimento técnico, boa ideia e muita empatia: construir coisas que facilitam o dia a dia e deixam um impacto bom na vida de cada um.
 
 ---
-
-✨ Meu coração é unir conhecimento técnico, boa ideia e muita empatia: construir coisas que facilitam o dia a dia e deixam um impacto bom na vida de cada um.
-
