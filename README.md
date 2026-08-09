@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=" Karina Marques_20260809_050034_0000.png" width="100%" />
+  <img src="Karina Marques_20260809_052315_0000.png" width="70%" />
 </p>
 
 <h3 align="center">👩‍💻 OLÁ, EU SOU KARINA 👋</h3>
@@ -26,30 +26,30 @@
 
 <h2>👩‍💻 Sobre mim</h2>
 
-Olá! Sou formada em Análise e Desenvolvimento de Sistemas (ADS) e estudante de Ciência da Computação, com foco em desenvolvimento de software.
-
-Minha trajetória profissional começou nas áreas da saúde e educação, experiências que fortaleceram habilidades como comunicação, empatia, escuta ativa e resolução de problemas.
-
-Hoje aplico essa visão na tecnologia, buscando criar soluções digitais funcionais, acessíveis e centradas nas pessoas.
-
-💡 **Acredito que a tecnologia deve ir além do código: ela deve resolver problemas reais e melhorar experiências.**
-
-🔭 Desenvolvendo projetos pessoais com foco em desenvolvimento web.
-
-🌱 Aprimorando conhecimentos em:
+Olá! Sou pedagoga, formada em Análise e Desenvolvimento de Sistemas (ADS) e estudante de Ciência da Computação 🎓
+ 
+Minha trajetória passou pela educação e saúde, experiências que me ensinaram a valorizar pessoas: comunicação, empatia, escuta e resolução de problemas fazem parte de quem sou.
+ 
+Hoje levo todo esse olhar para a tecnologia: crio soluções digitais que funcionam, são acessíveis e pensadas de verdade para quem vai usar.
+ 
+💡 Acredito que tecnologia não é só código: ela existe para resolver desafios reais e melhorar a vida das pessoas.
+ 
+🔭 No momento: construo projetos focados em desenvolvimento web.
+🌱 Aprofundando em:
+ 
 - Desenvolvimento de Software
-- Front-End
-- Back-End
-- APIs REST
-- Cloud Computing
+​
+- Front-end | Back-End | APIs REST
+​
+- Nuvem (Cloud)
+​
 - UX/UI
-
-🤝 Aberta a colaborar em projetos de tecnologia, inovação e soluções digitais.
-
-💬 Interesses:
-Desenvolvimento de Software • UX • Cloud Computing • Arquitetura de Software
-
-📫 Contato: **karina.devjourney@gmail.com**
+ 
+🤝 Aberta a colaborar em projetos, ideias e parcerias!
+ 
+💡 Desenvolvimento Web • Computação em Nuvem • UX/UI • APIs • Soluções Acessíveis
+ 
+📫 Contato: karina.devjourney@gmail.com
 
 ---
 
@@ -96,10 +96,12 @@ Git | GitHub | VS Code
 
 <h2>🚀 Projetos</h2>
 
-Projetos pessoais voltados para desenvolvimento de software, com foco em criar soluções digitais funcionais, acessíveis e centradas no usuário.
-
-Busco aplicar tecnologia, usabilidade e criatividade para resolver problemas reais e desenvolver experiências que gerem valor para as pessoas.
+São criações pessoais feitas com carinho: foco em soluções que funcionem de verdade, sejam acessíveis e pensadas sempre nas pessoas que vão usar.
+ 
+Aqui, eu misturo tecnologia, praticidade e cuidado para resolver desafios reais, do jeito mais útil e agradável possível.
+ 
 
 ---
 
-✨ Meu objetivo é unir tecnologia, criatividade e empatia para desenvolver soluções que simplifiquem a vida das pessoas e gerem impacto positivo.
+✨ Meu coração é unir conhecimento técnico, boa ideia e muita empatia: construir coisas que facilitam o dia a dia e deixam um impacto bom na vida de cada um.
+
