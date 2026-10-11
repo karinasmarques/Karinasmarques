@@ -49,51 +49,67 @@ Minha trajetória passou pela educação e saúde, experiências que me ensinara
  
 📫 Contato: karina.devjourney@gmail.com
 
----
-
-<h3>🎯 Estudos atuais</h3>
+## 🎯 Estudos atuais
 
 - JavaScript
 - React
 - Node.js
 - APIs REST
 - Banco de Dados
-- Cloud Computing
+- Computação em Nuvem
 - Back-End
 - Arquitetura de Software
 
-<h3>🚀 Próximos Passos</h3>
+## 🚀 Próximos Passos
 
 - Python
 - Inteligência Artificial aplicada
 - DevOps
 
-<h2>🛠️ Tecnologias</h2>
+## 🛠️ Tecnologias
 
 ### 💻 Front-End
-
-HTML5 | CSS3 | JavaScript | React
+<div style="display: inline_block">
+  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</div>
 
 ### ⚙️ Back-End
-
-Node.js
+<div style="display: inline_block">
+  <img align="center" alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</div>
 
 ### 🗄️ Banco de Dados
+<div style="display: inline_block">
+  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
 
-MySQL
-
-### ☁️ Cloud Computing
-
-AWS
+### ☁️ Computação em Nuvem
+<div style="display: inline_block">
+  <img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</div>
 
 ### 🛠️ Ferramentas
-
-Git | GitHub | VS Code
-
----
-
-<h2>🚀 Projetos</h2>
-
-São criações pessoais feitas com carinho.Aqui, eu misturo tecnologia, praticidade e cuidado para resolver desafios reais, do jeito mais útil e agradável possível. Meu objetivo é unir conhecimento técnico, boa ideia e muita empatia: construir coisas que facilitam o dia a dia e deixam um impacto bom na vida de cada um.
+<div style="display: inline_block">
+  <img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img align="center" alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</div>
 
 ---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karinasmarques&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub da Karina" />
+</div>
+
+<div align="center" style="margin-top: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinasmarques&layout=compact&theme=tokyonight" alt="Linguagens mais utilizadas" />
+</div>
+
+## 🚀 Projetos
+
+São aplicações e ferramentas desenvolvidas com propósito. Aqui, misturo tecnologia, praticidade e cuidado para resolver desafios reais de forma útil e agradável. Meu objetivo é unir rigor técnico, criatividade e empatia para construir soluções que facilitem o dia a dia e deixem um impacto positivo na vida das pessoas.
